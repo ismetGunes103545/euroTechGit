@@ -1,4 +1,4 @@
-package com.Java.Day_5_DataType;
+package com.Day_5_DataType;
 
 public class _1_DataType {
     public static void main(String[] args) {  // Main methodu. suslu parantez icinde yer alan hersey methoda ait.

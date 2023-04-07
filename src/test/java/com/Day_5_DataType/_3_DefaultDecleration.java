@@ -1,4 +1,4 @@
-package com.Java.Day_5_DataType;
+package com.Day_5_DataType;
 
 public class _3_DefaultDecleration {
 
